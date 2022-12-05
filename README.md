@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @SlenPlayz
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning HTML,CSS and javascript
-- 📫 How to reach me me@slen.tk
+# Hi! Im Slen!
+I'm a 14 year old web and flutter dev
 
-<!---
-SlenPlayz/SlenPlayz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Slen's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlenPlayz&show_icons=true&theme=tokyonight)
+
+## Some of my projects!
+ - [SG Bus](https://github.com/SlenPlayz/SGBus) - A Flutter based android app to get arrival timings for Singapore buses based on the material 3 design spec.
+
+
+## Contact me!
+Telegram - [@SlenPlayz](https://t.me/SlenPlayz)\
+Email - [me@slen.tk](mailto:slen.tk)
