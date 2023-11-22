@@ -9,4 +9,4 @@ I'm a 14 year old web and flutter dev
 
 ## Contact me!
 Telegram - [@SlenPlayz](https://t.me/SlenPlayz)\
-Email - [me@slen.tk](mailto:slen.tk)
+Email - [nelso.n@aol.com](mailto:nelso.n@aol.com)
